@@ -1,0 +1,61 @@
+PO_Number,VendorID,Application,DocumentType,Approved_Amount,PO_Date,Approver
+PO-4501,V007,Group Retirement,Policy Package,7700,2026-01-11,R. Singh
+PO-4502,V007,Banking,Annual Statement,17100,2026-06-27,L. Martin
+PO-4503,V010,Individual Insurance,Mail Insertion,7950,2026-01-12,T. Abebe
+PO-4505,V010,Banking,Mail Insertion,7600,2026-07-07,L. Martin
+PO-4506,V005,Group Benefits,Postage,10700,2026-07-18,M. Chen
+PO-4508,V003,Group Retirement,Envelopes,4350,2026-07-19,L. Martin
+PO-4511,V002,Group Retirement,Mail Insertion,3100,2026-08-09,L. Martin
+PO-4515,V002,Banking,Mail Insertion,18050,2026-01-25,M. Chen
+PO-4516,V004,Group Benefits,Tax Slip (T4A/T5),4000,2026-01-16,R. Singh
+PO-4520,V002,Wealth & Asset Mgmt,Mail Insertion,6150,2026-03-17,M. Chen
+PO-4522,V006,Group Retirement,Paper Stock,17550,2026-06-25,R. Singh
+PO-4524,V004,Wealth & Asset Mgmt,Tax Slip (T4A/T5),18350,2026-05-03,R. Singh
+PO-4525,V006,Individual Insurance,Paper Stock,12250,2026-03-04,M. Chen
+PO-4527,V002,Group Retirement,Mail Insertion,18750,2026-05-30,L. Martin
+PO-4531,V008,Group Retirement,Welcome Kit,8300,2026-02-10,M. Chen
+PO-4535,V008,Group Benefits,Welcome Kit,15000,2026-04-07,L. Martin
+PO-4536,V002,Individual Insurance,Mail Insertion,18050,2026-08-13,R. Singh
+PO-4537,V008,Wealth & Asset Mgmt,Welcome Kit,15500,2026-04-13,M. Chen
+PO-4538,V001,Banking,Tax Slip (T4A/T5),18400,2026-06-28,M. Chen
+PO-4541,V002,Group Benefits,Mail Insertion,2050,2026-04-26,M. Chen
+PO-4542,V003,Group Retirement,Envelopes,5900,2026-06-14,M. Chen
+PO-4543,V003,Group Retirement,Envelopes,2450,2026-06-07,T. Abebe
+PO-4546,V006,Individual Insurance,Paper Stock,16500,2026-03-07,T. Abebe
+PO-4550,V002,Individual Insurance,Mail Insertion,5250,2026-08-01,L. Martin
+PO-4553,V003,Banking,Envelopes,7400,2026-05-20,R. Singh
+PO-4557,V005,Group Retirement,Postage,15200,2026-06-25,L. Martin
+PO-4559,V002,Individual Insurance,Mail Insertion,2500,2026-03-03,R. Singh
+PO-4560,V004,Individual Insurance,Policy Package,3700,2026-01-23,T. Abebe
+PO-4561,V006,Group Benefits,Paper Stock,19100,2026-05-16,L. Martin
+PO-4563,V004,Banking,Welcome Kit,14100,2026-07-09,R. Singh
+PO-4567,V009,Individual Insurance,Annual Statement,18850,2026-02-22,L. Martin
+PO-4571,V006,Wealth & Asset Mgmt,Paper Stock,19200,2026-04-20,T. Abebe
+PO-4575,V001,Group Retirement,Annual Statement,8350,2026-07-10,R. Singh
+PO-4579,V004,Wealth & Asset Mgmt,Policy Package,9100,2026-02-09,L. Martin
+PO-4580,V004,Banking,Annual Statement,3250,2026-04-28,T. Abebe
+PO-4582,V002,Wealth & Asset Mgmt,Mail Insertion,14300,2026-02-16,R. Singh
+PO-4583,V008,Wealth & Asset Mgmt,Welcome Kit,11950,2026-02-16,M. Chen
+PO-4586,V009,Banking,Renewal Notice,5950,2026-04-23,R. Singh
+PO-4588,V005,Banking,Postage,10000,2026-01-19,T. Abebe
+PO-4592,V001,Banking,Policy Package,3450,2026-05-13,T. Abebe
+PO-4593,V003,Individual Insurance,Envelopes,12300,2026-06-06,T. Abebe
+PO-4594,V004,Individual Insurance,Renewal Notice,18800,2026-06-12,M. Chen
+PO-4596,V005,Group Retirement,Postage,8750,2026-06-25,L. Martin
+PO-4599,V003,Group Retirement,Envelopes,2200,2026-05-02,L. Martin
+PO-4600,V002,Group Benefits,Mail Insertion,5350,2026-05-22,M. Chen
+PO-4602,V002,Group Retirement,Mail Insertion,13200,2026-04-09,M. Chen
+PO-4605,V001,Individual Insurance,Policy Package,8750,2026-06-23,T. Abebe
+PO-4607,V002,Group Retirement,Mail Insertion,10750,2026-03-15,R. Singh
+PO-4611,V005,Individual Insurance,Postage,18200,2026-03-10,L. Martin
+PO-4612,V005,Group Retirement,Postage,18300,2026-01-05,M. Chen
+PO-4616,V003,Wealth & Asset Mgmt,Envelopes,4850,2026-05-26,T. Abebe
+PO-4617,V003,Group Retirement,Envelopes,13000,2026-08-06,R. Singh
+PO-4620,V001,Individual Insurance,Tax Slip (T4A/T5),7350,2026-04-08,R. Singh
+PO-4623,V002,Banking,Mail Insertion,17850,2026-07-23,R. Singh
+PO-4625,V004,Group Benefits,Renewal Notice,2600,2026-07-28,R. Singh
+PO-4629,V006,Group Benefits,Paper Stock,6050,2026-07-29,T. Abebe
+PO-4630,V008,Wealth & Asset Mgmt,Welcome Kit,7100,2026-08-12,L. Martin
+PO-4633,V006,Group Benefits,Paper Stock,2600,2026-08-03,R. Singh
+PO-4636,V008,Individual Insurance,Welcome Kit,10950,2026-03-17,L. Martin
+PO-4637,V006,Group Retirement,Paper Stock,16850,2026-02-03,M. Chen

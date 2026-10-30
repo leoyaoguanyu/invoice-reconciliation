@@ -1,0 +1,16 @@
+Issue,Count,DollarValue
+Duplicate invoice,4,37619.05
+Vendor not in vendor master,2,11458.35
+Invoice has no PO number,8,38730.8
+PO number not found in PO system,0,0.0
+Invoice vendor differs from PO vendor,0,0.0
+Cumulative invoices exceed PO amount,5,52844.0
+Net + Tax does not equal Invoice Total,5,26104.18
+Tax not at expected provincial rate,0,0.0
+Invoice from Inactive vendor,8,41793.23
+Paid amount differs from invoice total,2,10872.78
+Unpaid and past due,20,172409.58
+Payment with no matching invoice,2,2017.55
+Mapping row missing mail vendor,5,
+Mapping row missing owner,5,
+Mapping row uses an Inactive vendor,7,

@@ -1,0 +1,12 @@
+VendorID,Invoices,Invoiced,Paid,Outstanding,InvoicesWithIssues,VendorName,Status
+V002,19,136419.67,75045.4,61374.27,11,Maple Mailing Solutions,Active
+V005,9,81929.04,38459.98,43469.06,6,Harbourview Postage Ltd.,Active
+V006,11,125079.76,93927.99,31151.77,4,Cedarline Paper Supply,Active
+V004,12,72748.45,53143.36,19605.09,3,Summit Digital Print Inc.,Active
+V003,12,52420.88,35916.49,16504.39,4,Lakeshore Envelope Co.,Active
+V001,9,44714.29,29702.81,15011.48,3,Northbridge Print Services,Active
+UNKNOWN,2,11458.35,0.0,11458.35,2,,
+V007,4,23019.38,15771.04,7248.34,4,Redwood Document Services,Inactive
+V008,8,69403.12,62328.05,7075.07,1,ClearPath Fulfillment,Active
+V010,3,15561.53,14768.08,793.45,4,Bluewater Data Mail,Inactive
+V009,3,21910.04,21910.04,0.0,0,Granite Press Ltd.,Active
